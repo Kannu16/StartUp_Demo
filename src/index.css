@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.carousal-container{
+  background-image: url("  https://img.freepik.com/free-photo/dark-blue-paint-with-shade_53876-94984.jpg?w=1060&t=st=1690940855~exp=1690941455~hmac=9cd5cdb09d0692dbadb7e39c95d07039ca192ceb0562ff6c92febe4a3275c2c7");
+}
